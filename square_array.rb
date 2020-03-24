@@ -4,4 +4,5 @@ def square_array(array)
   array.each do { |square| square_arr << square ** 2 }
   square_arr
 end
+square_arr
 end 
